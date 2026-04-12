@@ -14,16 +14,16 @@
   <!-- Second Section -->
   <div style="margin-bottom: 20px;">
     <p style="font-size: 18px;">
-      Feel free to visit my <a href="https://chenyme.top" style="color: #0073e6; text-decoration: none;">homepage</a> to learn more about me.<br>
-      <span style="font-size: 16px; color: #555;">欢迎访问我的<a href="https://chenyme.top" style="color: #0073e6; text-decoration: none;">主页</a>，了解更多关于我的信息。</span>
+      Feel free to visit my <a href="https://blog.cheny.me" style="color: #0073e6; text-decoration: none;">homepage</a> to learn more about me.<br>
+      <span style="font-size: 16px; color: #555;">欢迎访问我的<a href="https://blog.cheny.me" style="color: #0073e6; text-decoration: none;">主页</a>，了解更多关于我的信息。</span>
     </p>
   </div>
 
   <!-- Third Section -->
   <div>
     <p style="font-size: 18px;">
-      You can also check out my <a href="https://blog.chenyme.top" style="color: #0073e6; text-decoration: none;">blog</a> to see what I've been up to lately.<br>
-      <span style="font-size: 16px; color: #555;">你也可以查看我的<a href="https://blog.chenyme.top" style="color: #0073e6; text-decoration: none;">博客</a>，了解我最近的生活动态。</span>
+      You can also check out my <a href="https://blog.cheny.me" style="color: #0073e6; text-decoration: none;">blog</a> to see what I've been up to lately.<br>
+      <span style="font-size: 16px; color: #555;">你也可以查看我的<a href="https://blog.cheny.me" style="color: #0073e6; text-decoration: none;">博客</a>，了解我最近的生活动态。</span>
     </p>
   </div>
 
@@ -39,7 +39,6 @@
   
 <br/>
 <p align="center">
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Chenyme&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=Chenyme&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
 
 </p>
